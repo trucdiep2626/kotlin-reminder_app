@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+    <string name="reminder_table">reminder-table</string>
+    <string name="notes">Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete Note</string>
+</resources>
